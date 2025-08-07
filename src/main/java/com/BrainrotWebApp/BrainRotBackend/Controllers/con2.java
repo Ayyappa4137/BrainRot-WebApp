@@ -1,5 +1,4 @@
 package com.BrainrotWebApp.BrainRotBackend.Controllers;
 
-public class con1 {
-
+public class con2 {
 }
